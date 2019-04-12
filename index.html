@@ -4,9 +4,11 @@
     <link rel="icon" href="https://www.emiia.ru/emiia.ico" type="image/x-icon" />
     <link rel="icon" href="/emiia.ico?v=2" type="image/x-icon" />
     ...
-    RewriteCond %{HTTP_HOST} ^emiia\.ru$ [NC]
-RewriteRule ^(.*)$ https://www.emiia.ru$1 [R=301,L]
+    Options +FollowSymLinks RewriteEngine on RewriteCond %{HTTP_HOST} ^emiia.ru[NC] RewriteRule ^(.*)$ https://www.emiia.ru/$1 [L,R=301]
+    RewriteCond %{HTTPS_HOST} ^([a-z0-9_-]+)\www.emiia.ru\.com$ 
     Options +FollowSymLinks RewriteEngine on RewriteCond %{HTTPS_HOST} ^emiia.ru[NC] RewriteRule ^(.*)$ https://www.emiia.ru/$1 [L,R=301]
+    RewriteCond %{HTTPS_HOST} ^([a-z0-9_-]+)\www.emiia.ru\.com$ 
+        Options +FollowSymLinks RewriteEngine on RewriteCond %{HTTP_HOST} ^www.emiia.ru[NC] RewriteRule ^(.*)$ https://www.emiia.ru/$1 [L,R=301]
     RewriteCond %{HTTPS_HOST} ^([a-z0-9_-]+)\www.emiia.ru\.com$ 
 </head>
 
