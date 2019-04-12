@@ -6,8 +6,8 @@
     ...
     RewriteCond %{HTTP_HOST} ^emiia\.ru$ [NC]
 RewriteRule ^(.*)$ https://www.emiia.ru$1 [R=301,L]
-    RewriteCond %{HTTP_HOST} ^([a-z0-9_-]+)\.emiia.ru\.com$ 
-RewriteRule ^(.*) https://www.emiia.ru$1 [R=301,L]
+    Options +FollowSymLinks RewriteEngine on RewriteCond %{HTTPS_HOST} ^emiia.ru[NC] RewriteRule ^(.*)$ https://www.emiia.ru/$1 [L,R=301]
+    RewriteCond %{HTTPS_HOST} ^([a-z0-9_-]+)\www.emiia.ru\.com$ 
 </head>
 
 
