@@ -1,4 +1,1 @@
-<?
-$URL="https://www.emiia.ru";
-header ("Location: $URL");
-?>
+header("Location: https://www.emiia.ru");
