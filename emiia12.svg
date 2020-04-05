@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
@@ -15,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="plusmenu1.svg">
+   sodipodi:docname="menux.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,8 +26,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="18.437809"
-     inkscape:cx="19.040799"
+     inkscape:zoom="9.2189045"
+     inkscape:cx="-8.3485725"
      inkscape:cy="11.908178"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -59,14 +60,14 @@
      id="layer1"
      transform="translate(-31.84289,-114.63315)">
     <path
-       style="fill:#000000;fill-opacity:1;stroke:#4e9bda;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#000102;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 37.327549,115.75429 c -4.360548,4.46694 -4.360548,4.46694 -4.360548,4.46694"
        id="path851-3"
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="0.62076707"
        inkscape:transform-center-y="-1.9550056" />
     <path
-       style="fill:#000000;fill-opacity:1;stroke:#4e9bda;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#000102;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 37.437148,120.10534 C 32.97021,115.74479 32.97021,115.74479 32.97021,115.74479"
        id="path851-1-5"
        inkscape:connector-curvature="0"
