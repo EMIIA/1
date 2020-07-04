@@ -85,15 +85,5 @@
        id="path16518"
        d="M 58.240696,106.17532"
        style="fill:none;fill-opacity:1;stroke:#3d85c6;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8.8648653;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <polyline
-       id="polyline16698"
-       points="   76.58,398.758 56.299,398.758 56.299,279.372 76.58,279.372  "
-       style="fill:none;fill-opacity:1;stroke:#3d85c6;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8.8648653;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,31.544386,17.54501)" />
-    <polyline
-       id="polyline16700"
-       points="   160.203,279.372 179.541,279.372 179.541,398.758 160.203,398.758  "
-       style="fill:none;fill-opacity:1;stroke:#3d85c6;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8.8648653;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,31.544386,17.54501)" />
   </g>
 </svg>

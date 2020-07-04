@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="187.63583"
+     inkscape:cx="96.722102"
      inkscape:cy="46.357598"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,16 +57,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-27.047734,-135.51104)">
-    <polyline
-       id="polyline16704"
-       points="   243.773,562.518 223.492,562.518 223.492,443.132 243.773,443.132  "
-       style="fill:none;fill-opacity:1;stroke:#3d85c6;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8.8648653;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,-31.952232,18.398005)" />
-    <polyline
-       id="polyline16706"
-       points="   327.397,443.132 346.735,443.132 346.735,562.518 327.397,562.518  "
-       style="fill:none;fill-opacity:1;stroke:#3d85c6;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8.8648653;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,-31.952232,18.398005)" />
     <g
        style="stroke:#3d85c6;stroke-width:2.56887603;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="XMLID_3_"

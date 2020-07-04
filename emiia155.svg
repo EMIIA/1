@@ -164,15 +164,5 @@
          id="path16614"
          inkscape:connector-curvature="0" />
     </g>
-    <polyline
-       id="polyline16716"
-       points="   76.58,562.518 56.299,562.518 56.299,443.132 76.58,443.132  "
-       style="fill:none;fill-opacity:1;stroke:#3d85c6;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8.8648653;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,43.555678,16.684294)" />
-    <polyline
-       id="polyline16718"
-       points="   160.203,443.132 179.541,443.132 179.541,562.518 160.203,562.518  "
-       style="fill:none;fill-opacity:1;stroke:#3d85c6;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:8.8648653;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(0.26458333,0,0,0.26458333,43.555678,16.684294)" />
   </g>
 </svg>
